@@ -1,0 +1,58 @@
+h1 {
+    font-size: 30px;
+    padding: 10px;
+    text-shadow: 3px 3px 3px white;
+}
+h2 {
+    font-family: Arial;
+    text-shadow: 1px 1px 1px white;
+
+}
+h3 {
+    margin-left: 0px;
+    text-shadow: 1px 1px 1px white;
+}
+.masthead-brand {
+    font-size: 30;
+    color: darkblue;
+    letter-spacing: 30px;
+
+}
+
+.main-text {
+    font-weight: bold;
+    font-size: 18px;
+    text-shadow: 1px 1px 5px white;
+
+}
+
+.copyright {
+    font-weight: bold;
+
+    font-size: 16px;
+    text-shadow: 1px 1px 2px white;
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    text-align: right;
+}
+.modal{
+  padding: 10px;
+  position: fixed; top: 85%; left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.modal_1{
+  padding: 4px;
+  position: fixed; top: 100%; left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.main-text_1 {
+
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px white;
+ }
