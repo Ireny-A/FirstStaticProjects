@@ -64,17 +64,26 @@
         font-family: "Sansita Swashed", cursive;
     }
 
-
-    footer {
-        background-color: #e9ecef;
-      font-family: "Sansita Swashed", cursive;
+      main {
+      min-height: calc(100vh - 70px);
     }
 
-
-    header {
+      header {
+          height: 90px;
         background-color: #e9ecef;
         font-family: "Sansita Swashed", cursive
     }
+
+
+        footer {
+            background-color: #e9ecef;
+            height: 70px;
+          font-family: "Sansita Swashed", cursive;
+        }
+
+        html {
+              height: 100%;
+            }
 
 
     fieldset {
@@ -122,10 +131,25 @@
         color: dimgray;
     }
 
+    h2.txt {
+        color: dimgray;
+    }
+
 
     a.btn {
       font-family: "Sansita Swashed", cursive;
     }
+
+    button.btn {
+        font-family: "Sansita Swashed", cursive;
+    }
+
+
+
+
+
+
+
 
 
       /*body {*/
